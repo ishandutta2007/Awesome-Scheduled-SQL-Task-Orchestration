@@ -42,7 +42,7 @@ The sector is **moderately fragmented**: mega-cap hyperscalers (such as Amazon W
 - [☁️ SaaS / Hosted Platforms](#-saas--hosted-platforms)
   - [🏢 Enterprise SaaS Comparison Table](#-enterprise-saas-comparison-table)
 - [🐙 Open-Source GitHub Projects](#-open-source-github-projects)
-  - [⭐ Open-Source Ranked by GitHub Stars](#-open-source-ranked-by-github-stars)
+  - [⭐ Open-Source Ranked by GitHub_Stars](#-open-source-ranked-by-github-stars)
   - [🔍 Deep-Dive by Orchestration Philosophy](#-deep-dive-by-orchestration-philosophy)
 - [🤝 How to Contribute](#-how-to-contribute)
 - [💖 Support & Sponsorship](#-support--sponsorship-)
@@ -78,11 +78,11 @@ Sorted descending by company size (Valuation / Market Capitalization / Annual Re
 
 Open-source workflow engines empower platform engineering teams to eliminate vendor lock-in, maintain complete sovereignty over sensitive database credentials, and customize schedulers to exact infrastructure needs.
 
-### ⭐ Open-Source Ranked by GitHub Stars
+### ⭐ Open-Source Ranked by GitHub_Stars
 
-Below is the verified ranking of top open-source SQL and data workflow orchestration projects, sorted descending by GitHub star counts (live social badges link directly to the respective stargazers page):
+Below is the verified ranking of top open-source SQL and data workflow orchestration projects, sorted descending by GitHub Stars_Counts (live social badges link directly to the respective stargazers page):
 
-| Project | GitHub Stars | Primary Language | License | Key Orchestration Strengths |
+| Project | GitHub_Stars | Primary Language | License | Key Orchestration Strengths |
 | :--- | :---: | :---: | :---: | :--- |
 | **[Apache Airflow](https://github.com/apache/airflow)** | [![Stars](https://img.shields.io/github/stars/apache/airflow?style=social&color=white)](https://github.com/apache/airflow/stargazers) | Python | Apache-2.0 | The industry standard for complex Python-defined task DAGs; thousands of database hooks and operators. |
 | **[Kestra](https://github.com/kestra-io/kestra)** | [![Stars](https://img.shields.io/github/stars/kestra-io/kestra?style=social&color=white)](https://github.com/kestra-io/kestra/stargazers) | Java | Apache-2.0 | High-throughput declarative YAML-based orchestrator; language-agnostic plugins for SQL, Python, containers, and event triggers. |
@@ -126,7 +126,7 @@ Contributions to improve this curated list are very welcome!
 
 1. 🍴 **Fork the repository** on GitHub.
 2. 🌿 **Create a dedicated branch**: `git checkout -b feature/add-orchestrator-tool`.
-3. ✏️ **Add/edit your tool**: Ensure pricing details, free tier limits, star badges, and descriptions follow the existing format.
+3. ✏️ **Add/edit your tool**: Ensure pricing details, free tier limits, Stars_Badges, and descriptions follow the existing format.
 4. 🚀 **Submit a Pull Request** with a concise description of why the tool should be added.
 
 ---
